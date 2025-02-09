@@ -19,7 +19,7 @@ This is a modern, modular SSH honeypot built with Python. It simulates a realist
 
 
 # How To use
-Sure! Here's the usage guide in plain text format:
+
 
 ---
 
