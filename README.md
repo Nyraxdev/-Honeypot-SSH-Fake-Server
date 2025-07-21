@@ -1,4 +1,4 @@
-# Advanced Modern SSH Honeypot
+#  SSH Honeypot
 
 ## Overview
 This is a modern, modular SSH honeypot built with Python. It simulates a realistic SSH server and logs unauthorized login attempts and attacker behavior for analysis. It is perfect for educational, research, and monitoring purposes.
